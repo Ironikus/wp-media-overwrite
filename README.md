@@ -1,1 +1,0 @@
-# wp-media-overwrite

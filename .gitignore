@@ -1,0 +1,27 @@
+.DS_Store
+node_modules
+
+npm-debug.log
+.sass-cache
+.gulp-file
+bower_components
+*.scssc
+sftp-config.json
+sftp.json
+config.codekit
+*.map
+assets/img/temp
+.vscode
+
+project-info.json
+
+# OS generated files #
+######################
+**.DS_Store*
+ehthumbs.db
+Thumbs.db
+._*
+wordpress-stubs.php
+acf-stubs.php
+
+.idea
